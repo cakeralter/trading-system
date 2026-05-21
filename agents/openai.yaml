@@ -1,0 +1,7 @@
+interface:
+  display_name: "Trading System"
+  short_description: "交易评分、仓位计算与复盘执行"
+  default_prompt: "Use $trading-system to score candidates, calculate risk-based position sizing, and review trades under the system rules."
+
+policy:
+  allow_implicit_invocation: true
